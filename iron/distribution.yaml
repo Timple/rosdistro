@@ -562,8 +562,6 @@ repositories:
       url: https://github.com/Azure/azure-iot-sdk-c.git
       version: main
     release:
-      packages:
-      - azure_iot_sdk_c
       tags:
         release: release/iron/{package}/{version}
       url: https://github.com/nobleo/azure-iot-sdk-c-release.git
